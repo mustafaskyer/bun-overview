@@ -1,15 +1,3 @@
-# bun-crash-course
+More Details Can be found here 
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.0.3. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+[Notion Link Explanation](https://bun.sh](https://www.notion.so/Bun-Crash-Course-efbfa50068474c3db8af78058d4cf332?pvs=4)https://www.notion.so/Bun-Crash-Course-efbfa50068474c3db8af78058d4cf332?pvs=4)
